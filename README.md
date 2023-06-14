@@ -73,3 +73,56 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
+## Links for further reading and research
+	** General **
+		What Is Azure?
+		https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-azure
+
+		Difference between IAAS, PAAS and SAAS offerings on Microsoft Azure
+		https://www.youtube.com/watch?v=WAqVsb7QhXw
+		
+		Microsoft Learn
+		https://learn.microsoft.com/
+
+		Microsoft Virtual Academy
+		https://mva.microsoft.com/
+		
+	** Developer training **
+		Getting Started with VS Code
+		https://code.visualstudio.com/docs/introvideos/basics
+
+		Getting Started with Python in VS Code
+		https://code.visualstudio.com/docs/python/python-tutorial
+		
+		Python for Beginners on Microsoft Developer Blog
+		https://devblogs.microsoft.com/python/
+		
+		MS Learn Python Learning Path
+		https://docs.microsoft.com/en-us/learn/paths/python-first-steps/
+		
+		Python for Beginners Series -- 44 videos on YouTube 
+		https://www.youtube.com/watch?v=jFCNu1-Xdsw&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+		
+		More Python for Beginners -- YouTube
+		https://www.youtube.com/watch?v=uQ5BZht9L3A
+	
+	** Azure Cognitive Services **
+		Azure Cognitive Services
+		https://learn.microsoft.com/en-us/azure/cognitive-services/
+
+		Learn Azure Cognitive Services
+		https://azure.microsoft.com/en-us/resources/learning-azure-cognitive-services/
+
+		How to Build Apps with Azure Cognitive Services
+		https://www.youtube.com/watch?v=rvKrtHt4YhA
+
+		Create applications with Azure Cognitive Services
+		https://docs.microsoft.com/en-us/learn/paths/create-applications-with-azure-cognitive-services/
+
+		Azure Cognitive Services samples and quickstarts on GitHub:
+		https://github.com/Azure-Samples/cognitive-services-quickstart-code
+
+		Azure Cognitive Services YouTube channel
+		https://www.youtube.com/c/AzureCognitiveServices
